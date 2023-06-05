@@ -1,0 +1,4 @@
+include LINCENSE.txt
+include README.rst
+recursive-include citylocations/static * 
+recursive-include citylocations/templates *
